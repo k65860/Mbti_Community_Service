@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>임시페이지</title>
+</head>
+<body>
+    <h1>임시 페이지</h1>
+    <div class="create">
+        <button type="button" class="create=btn"><a href="{% url 'create' %}">글 작성</a></button>
+    </div>
+    <div class="write-wrapper">
+        
+        {% for write in all_write %}
+        <div class="write">
+            <a href="{% url 'detail' write.id %}">
+                <div>{{write.title}}</div>
+                <div>{{write.contents}}</div>
+                <div>{{write.people}}</div>
+                <div>{{write.updated_at}}</div>
+            </a>
+            <div class="update-delete">
+                <a href="{% url 'update' write.id %}">수정하기</a>
+                <a href="{% url 'delete' write.id %}">삭제하기</a>
+            </div>
+    </div>
+    {% endfor %}
+</body>
+</html>
+
+
