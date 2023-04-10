@@ -20,18 +20,18 @@ Back-End : 공민성, 최진
 - 위와 같은 트렌디한 주제로 현대사회 사람들의 결속력을 높일 수 있는 장점을 극대화 하기 위해 MBTI 기반 토크&고민 상담 웹서비스 제작을 추진함
 
 ## 페이지 소개
-- 메인페이지 : MBTI 자세한 설명 이미지 배너와 검사 사이트를 연결함
+메인페이지 : MBTI 자세한 설명 이미지 배너와 검사 사이트를 연결함  
 ![image](https://user-images.githubusercontent.com/82208408/230829044-f229a284-3483-4d6e-8344-822905fcbaa3.png)
 
-- 자유게시판 : 자유로운 주제로 일반적인 커뮤니티처럼 소통이 가능함
+자유게시판 : 자유로운 주제로 일반적인 커뮤니티처럼 소통이 가능함  
 ![image](https://user-images.githubusercontent.com/82208408/230829085-a46ab597-dfed-40ad-8c4e-a7409996a1ed.png)
 
-- 회원제 서비스 : 로그인/회원가입 기능을 통해 자신의 MBTI와 별명, 이메일 등을 등록할 수 있음
+회원제 서비스 : 로그인/회원가입 기능을 통해 자신의 MBTI와 별명, 이메일 등을 등록할 수 있음  
 회원가입
 ![image](https://user-images.githubusercontent.com/82208408/230829181-7e509530-3273-4195-aaf5-bbf1744d1e5b.png)
 
-로그인
+로그인  
 ![image](https://user-images.githubusercontent.com/82208408/230829138-4066f7d6-6273-49be-9577-60dbff3bdad6.png)
 
-- 고민상담방 : MBTI 유형별로(성격) 카테고리가 구분되어 있음 -> 서로 궁금한 점을 질문하고, 고민을 해결, 답변할 수 있음
+고민상담방 : MBTI 유형별로(성격) 카테고리가 구분되어 있음 -> 서로 궁금한 점을 질문하고, 고민을 해결, 답변할 수 있음  
 ![image](https://user-images.githubusercontent.com/82208408/230829204-67a64abc-b41d-48ac-b9cc-e31d386f47e8.png)
